@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CS/POO2/practica-calificada-1-Alejandro1998elebebecito-master/PC1/TwoLinkedList.h
+
+D:/CS/POO2/practica-calificada-1-Alejandro1998elebebecito-master/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+D:/CS/POO2/practica-calificada-1-Alejandro1998elebebecito-master/PC1/TwoLinkedList.h
+
